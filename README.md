@@ -5,7 +5,7 @@
 Скомпилировать код в исполняемый файл с нужным названием
 
     $ gcc -o timeserver timeserver.c
-     gcc -o timeclient timeclient.c
+    $ gcc -o timeclient timeclient.c
 
 Запустить исполняемые файлы:
 

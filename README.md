@@ -4,10 +4,10 @@
 ### socket_kr
 Скомпилировать код в исполняемый файл с нужным названием
 
-    gcc -o timeserver timeserver.c
-    gcc -o timeclient timeclient.c
+    $ gcc -o timeserver timeserver.c
+     gcc -o timeclient timeclient.c
 
 Запустить исполняемые файлы:
 
-    ./timeserver
-    ./timeclient
+    $ ./timeserver
+    $ ./timeclient
